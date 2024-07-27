@@ -1,4 +1,4 @@
-package com.example.iotremote
+package com.example.iotremote.Bluetooth
 
 import android.Manifest
 import android.app.Activity
